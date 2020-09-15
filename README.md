@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-for reference visit url: https://clone-c1bda.firebaseapp.com/
+for Demo visit url: https://clone-c1bda.firebaseapp.com/
 
 ## Available Scripts
 
